@@ -10,6 +10,7 @@ This doesn't mean they are the best way to solve them, there might be better or 
 But you could use these to get hints on how you could solve a puzzle like that or maybe it could inspire you to draft somehting of your own.
 
 I have used C++ in combination with visual studio 2019 to solve the puzzles. Hence you will find the source inside each folder is written in C++.
+The code is not specific to any platform. I am using STL, not Microsoft or any vendor specific library.
 
 Each source file, when imported in an empty C++ project in visual studio on windows, will open a command shell when compiled and run.
 
