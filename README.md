@@ -22,4 +22,4 @@ To stop pasting input, on a new line just type "stop" and press enter (unless sp
 The program will then process the input and output a message that contains the answer you are looking for.
 
 >**_Note:_**  
-Most of the code is not very efficient, as it was attempted to create a solution quickly, without optimizing te code. Also, different variable naming styles can be observed throughout the code as I was not sticking to any standards (normally I do stick to such standards).
+Most of the code is not very efficient, as it was attempted to create a solution quickly, without optimizing the code. Also, different variable naming styles can be observed throughout the code as I was not sticking to any standards (normally I do stick to such standards).
